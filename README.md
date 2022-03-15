@@ -1,1 +1,1 @@
-# uninformed-search-algorithms
+# BFS, DFS and UCS implemented using Python
